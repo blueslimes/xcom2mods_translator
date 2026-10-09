@@ -1,0 +1,43 @@
+[IRI_RPG_CV X2DisposableLauncherTemplate]
+FriendlyName="RPG"
+FriendlyNamePlural="RPG"
+ThrownAbilityName="發射RPG"
+ThrownAbilityHelpText="發射RPG。這個射擊會散射。"
+BriefSummary="我們設法從最初的XCOM計畫剩餘的一個彈藥庫中獲得了大量的一次性 RPG 供應。它們對裝甲目標和敵人群體非常有效，但使用起來可能很笨重。"
+TacticalText="我們設法從最初的XCOM計畫剩餘的一個彈藥庫中獲得了大量的一次性 RPG 供應。它們對裝甲目標和敵人群體非常有效，但使用起來可能很笨重。 <br/><Bullet/> 與手榴彈不同，火箭彈可能會散射並錯過目標。如果在士兵只剩下一個行動點或進行遠距離射擊時發射火箭，則散射情況會變得更糟。 \n<Bullet/> 比大多數其他實用物品重。"
+
+[IRI_RPG_MG X2DisposableLauncherTemplate]
+FriendlyName="CRAG"
+FriendlyNamePlural="CRAG"
+ThrownAbilityName="發射CRAG"
+ThrownAbilityHelpText="發射CRAG。這個射擊會散射。"
+BriefSummary="CRAG 使用超頻磁線圈來快速加速改裝後的外星手榴彈，以超音速發射。不幸的是，如果沒有笨重的補償和冷卻裝置，內部線圈總是會在射擊過程中燒毀，使該發射器不適合重複使用。"
+TacticalText="CRAG 使用超頻磁線圈來快速加速改裝後的外星手榴彈，以超音速發射。不幸的是，如果沒有笨重的補償和冷卻裝置，內部線圈總是會在射擊過程中燒毀，使該發射器不適合重複使用。 <br/><Bullet/> 與手榴彈不同，火箭彈可能會散射並錯過目標。如果在士兵只剩下一個行動點或進行遠距離射擊時發射火箭，則散射情況會變得更糟。 \n<Bullet/> 比大多數其他實用物品重。"
+
+[IRI_RPG_BM X2DisposableLauncherTemplate]
+FriendlyName="BFG"
+FriendlyNamePlural="BFG"
+ThrownAbilityName="發射BFG"
+ThrownAbilityHelpText="發射BFG。這個射擊會散射。"
+BriefSummary="二元融合手榴彈使用傳統的炸藥來內爆超鈾核心，使其具有作為炸藥的巨大潛力。 BFG 使用冷凝空氣對核心進行過冷以延遲鍊式反應。然後，核心立即透過非接觸重力場發射。"
+TacticalText="二元融合手榴彈使用傳統的炸藥來內爆超鈾核心，使其具有作為炸藥的巨大潛力。 BFG 使用冷凝空氣對核心進行過冷以延遲鍊式反應。然後，核心立即透過非接觸重力場發射。 <br/><Bullet/> 與手榴彈不同，火箭彈可能會散射並錯過目標。如果在士兵只剩下一個行動點或進行遠距離射擊時發射火箭，則散射情況會變得更糟。 \n<Bullet/> 比大多數其他實用物品重。"
+
+[IRI_RPG_CV_Utility X2UtilityDisposableLauncherTemplate]
+FriendlyName="RPG"
+FriendlyNamePlural="RPG"
+BriefSummary="我們設法從最初的XCOM計畫剩餘的一個彈藥庫中獲得了大量的一次性 RPG 供應。它們對裝甲目標和敵人群體非常有效，但使用起來可能很笨重。"
+TacticalText="我們設法從最初的XCOM計畫剩餘的一個彈藥庫中獲得了大量的一次性 RPG 供應。它們對裝甲目標和敵人群體非常有效，但使用起來可能很笨重。 <br/><Bullet/> 與手榴彈不同，火箭彈可能會散射並錯過目標。如果在士兵只剩下一個行動點或進行遠距離射擊時發射火箭，則散射情況會變得更糟。 \n<Bullet/> 比大多數其他實用物品重。"
+
+
+[IRI_RPG_MG_Utility X2UtilityDisposableLauncherTemplate]
+FriendlyName="CRAG"
+FriendlyNamePlural="CRAG"
+BriefSummary="CRAG 使用超頻磁線圈來快速加速改裝後的外星手榴彈，以超音速發射。不幸的是，如果沒有笨重的補償和冷卻裝置，內部線圈總是會在射擊過程中燒毀，使該發射器不適合重複使用。"
+TacticalText="CRAG 使用超頻磁線圈來快速加速改裝後的外星手榴彈，以超音速發射。不幸的是，如果沒有笨重的補償和冷卻裝置，內部線圈總是會在射擊過程中燒毀，使該發射器不適合重複使用。 <br/><Bullet/> 與手榴彈不同，火箭彈可能會散射並錯過目標。如果在士兵只剩下一個行動點或進行遠距離射擊時發射火箭，則散射情況會變得更糟。 \n<Bullet/> 比大多數其他實用物品重。"
+
+
+[IRI_RPG_BM_Utility X2UtilityDisposableLauncherTemplate]
+FriendlyName="BFG"
+FriendlyNamePlural="BFG"
+BriefSummary="二元融合手榴彈使用傳統的炸藥來內爆超鈾核心，使其具有作為炸藥的巨大潛力。 BFG 使用冷凝空氣對核心進行過冷以延遲鍊式反應。然後，核心立即透過非接觸重力場發射。"
+TacticalText="二元融合手榴彈使用傳統的炸藥來內爆超鈾核心，使其具有作為炸藥的巨大潛力。 BFG 使用冷凝空氣對核心進行過冷以延遲鍊式反應。然後，核心立即透過非接觸重力場發射。 <br/><Bullet/> 與手榴彈不同，火箭彈可能會散射並錯過目標。如果在士兵只剩下一個行動點或進行遠距離射擊時發射火箭，則散射情況會變得更糟。 \n<Bullet/> 比大多數其他實用物品重。"
